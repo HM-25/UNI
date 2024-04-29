@@ -1,0 +1,20 @@
+==========================================
+	CLASSIC PUZZLE GAME
+==========================================
+
+>> This game requires the Visual Basic 6 dependency file:
+
+		"MSVBVM60.DLL"
+
+>> If this file is not present on your computer, this game will not run.
+
+>> You can easily download this file from the internet.
+
+>> Once this file is downloaded, it should be put in the System folder
+	which is usually located at: "C:\Windows\System"
+
+>> After you put this file in the System folder, you need to register
+	this file in the Windows Registry by issuing this command
+	at the "Run" dialog box:
+
+	regsvr32 msvbvm60.dll
