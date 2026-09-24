@@ -1,0 +1,31 @@
+# Build output
+*.exe
+*.dll
+bin/
+obj/
+
+# Visual Basic 6 IDE files
+*.vbw
+*.log
+*.tmp
+MSSCCPRJ.SCC
+
+# SQL Server transaction logs
+*.ldf
+*.LDF
+
+# Python
+__pycache__/
+*.pyc
+
+# Files created when running the practice exercises
+practice/python/grades.csv
+practice/python/report.txt
+practice/python/library.json
+practice/csharp/inventory.csv
+practice/php/messages.txt
+practice/php/students.db
+
+# OS files
+Thumbs.db
+.DS_Store
